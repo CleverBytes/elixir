@@ -11,3 +11,4 @@
 /.eunit
 .elixir.plt
 erl_crash.dump
+/lib/elixir/test/ebin//trash//
